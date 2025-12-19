@@ -1,0 +1,10 @@
+appointment_id,patient_id,clinician_id,facility_id,appointment_date,appointment_time,duration_minutes,appointment_type,status,reason_for_visit,notes,created_date,last_modified
+A002,P002,C009,S001,2025/9/20,10:30,30,Vaccination,Scheduled,Flu vaccination,Annual flu jab appointment,2025/9/14,2025/9/14
+A003,P003,C003,S002,2025/9/21,14:00,15,Follow-up,Scheduled,Blood pressure check,Follow-up for hypertension management,2025/9/16,2025/9/16
+A004,P004,C002,S001,2025/9/22,11:15,20,Urgent Consultation,Scheduled,Chest pain,Patient reports chest discomfort,2025/9/17,2025/9/17
+A005,P005,C005,H001,2025/9/25,15:30,45,Specialist Consultation,Scheduled,Cardiology referral,Referred for heart murmur investigation,2025/9/10,2025/9/10
+A006,P006,C004,S003,2025/9/23,9:45,15,Routine Consultation,Scheduled,Prescription review,Review of chronic medications,2025/9/18,2025/9/18
+A007,P007,C001,S001,2025/9/24,16:00,15,Emergency,Cancelled,Sudden illness,Patient cancelled due to recovery,2025/9/19,2025/9/20
+A008,P008,C010,S002,2025/9/26,10:00,30,Health Check,Scheduled,Well woman screening,Routine cervical screening,2025/9/12,2025/9/12
+A009,P009,C007,H002,2025/9/27,13:00,60,Specialist Consultation,Scheduled,Orthopaedic assessment,Knee pain investigation,2025/9/11,2025/9/11
+111,P001,C002,FAC001,111,111,15,General,Scheduled,111,,2024-01-01,2024-01-01

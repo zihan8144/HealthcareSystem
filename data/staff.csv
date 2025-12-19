@@ -1,0 +1,18 @@
+staff_id,first_name,last_name,role,department,facility_id,phone_number,email,employment_status,start_date,line_manager,access_level
+ST001,Michelle,Adams,Practice Manager,Administration,S001,7111333444,m.adams@birminghamgp.nhs.uk,Full-time,2019/3/1,Dr. David Thompson,Manager
+ST002,James,Wilson,Receptionist,Front Desk,S001,7111333445,j.wilson@birminghamgp.nhs.uk,Part-time,2020/7/15,Michelle Adams,Basic
+ST003,Carol,Smith,Medical Secretary,Administration,S001,7111333446,c.smith@birminghamgp.nhs.uk,Full-time,2018/11/20,Michelle Adams,Standard
+ST004,Peter,Johnson,Healthcare Assistant,Clinical Support,S001,7111333447,p.johnson@birminghamgp.nhs.uk,Full-time,2021/1/10,Sister Mary Kelly,Standard
+ST005,Sandra,Brown,Practice Manager,Administration,S002,7111333448,s.brown@solihullgp.nhs.uk,Full-time,2017/5/12,Dr. Mark Davies,Manager
+ST006,Kevin,Davis,Receptionist,Front Desk,S002,7111333449,k.davis@solihullgp.nhs.uk,Full-time,2019/9/3,Sandra Brown,Basic
+ST007,Lisa,Miller,Medical Secretary,Administration,S002,7111333450,l.miller@solihullgp.nhs.uk,Part-time,2020/2/18,Sandra Brown,Standard
+ST008,Margaret,Taylor,Practice Manager,Administration,S003,7111333451,m.taylor@suttongp.nhs.uk,Full-time,2018/8/25,Dr. Susan Clarke,Manager
+ST009,Robert,Anderson,Receptionist,Front Desk,S003,7111333452,r.anderson@suttongp.nhs.uk,Full-time,2021/4/7,Margaret Taylor,Basic
+ST010,Helen,White,Healthcare Assistant,Clinical Support,S003,7111333453,h.white@suttongp.nhs.uk,Full-time,2020/10/14,Dr. Susan Clarke,Standard
+ST012,Julie,Roberts,Ward Clerk,Administration,H001,7111333455,j.roberts@heartlandshospital.nhs.uk,Full-time,2019/6/22,David Thompson,Standard
+ST013,Mark,Evans,Porter,Support Services,H001,7111333456,m.evans@heartlandshospital.nhs.uk,Full-time,2020/1/15,David Thompson,Basic
+ST014,Susan,Clarke,Appointments Coordinator,Administration,H002,7111333457,s.clarke@queenshospital.nhs.uk,Full-time,2018/4/30,Michael Brown,Standard
+ST015,Andrew,Phillips,Medical Records Clerk,Administration,H002,7111333458,a.phillips@queenshospital.nhs.uk,Part-time,2021/2/8,Susan Clarke,Standard
+ST016,Patricia,Green,Children's Unit Coordinator,Administration,H003,7111333459,p.green@birminghamhospital.nhs.uk,Full-time,2017/10/12,Emma Thompson,Manager
+A001,Patricia,Green,Children's Unit Coordinator,Administration,H003,7111333459,p.green@birminghamhospital.nhs.uk,Full-time,2017/10/12,Emma Thompson,
+321,321,321,Nurse,Clinical,FAC001,N/A,email,Active,2024,N/A,1

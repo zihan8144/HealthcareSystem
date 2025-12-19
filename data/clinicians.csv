@@ -1,0 +1,7 @@
+clinician_id,first_name,last_name,title,speciality,gmc_number,phone_number,email,workplace_id,workplace_type,employment_status,start_date
+C002,Dr. Helen,Roberts,GP,General Practice,7654322,07111222334,h.roberts@birminghamgp.nhs.uk,S001,GP Surgery,Part-time,2019-09-15
+C003,Dr. Mark,Davies,GP,General Practice,7654323,07111222335,m.davies@solihullgp.nhs.uk,S002,GP Surgery,Full-time,2017-02-20
+C004,Dr. Susan,Clarke,GP,General Practice,7654324,07111222336,s.clarke@suttongp.nhs.uk,S003,GP Surgery,Full-time,2020-01-10
+C009,Sister Mary,Kelly,Senior Nurse,General Nursing,N654321,07111222341,m.kelly@birminghamgp.nhs.uk,S001,GP Surgery,Full-time,2019-01-15
+C011,Nurse Robert,Green,Staff Nurse,General Nursing,N654323,07111222343,r.green@heartlandshospital.nhs.uk,H001,Hospital,Full-time,2018-09-10
+123,123,123,Dr.,General,N/A,N/A,email,123,Hosp,Active,2024

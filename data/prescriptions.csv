@@ -1,0 +1,7 @@
+prescription_id,patient_id,clinician_id,appointment_id,prescription_date,medication_name,dosage,frequency,duration_days,quantity,instructions,pharmacy_name,status,issue_date,collection_date
+RX002,P002,C009,A002,2025/9/20,Paracetamol,500mg,As required,7,16 tablets,Max 8 tablets in 24 hours,Superdrug Birmingham Central,Issued,2025/9/20,
+RX003,P003,C003,A003,2025/9/21,Ramipril,5mg,Once daily,28,28 tablets,Take in morning,Lloyds Pharmacy Solihull,Issued,2025/9/21,
+RX005,P006,C004,N/A,2024-01-01,Metformin,500mg,Daily,7,1,Instructions,Pharmacy,Refill Requested,2024-01-01
+123,P002,C003,N/A,2024-01-01,1231,123,Daily,7,1,Instructions,Pharmacy,Issued,2024-01-01
+RX001,P001,C001,N/A,2024-01-01,Simvastatin,20mg,Daily,7,1,Instructions,Pharmacy,Refill Requested,2024-01-01
+RX004,P004,C002,N/A,2024-01-01,GTN Spray,400mcg,Daily,7,1,Instructions,Pharmacy,Revoked,2024-01-01

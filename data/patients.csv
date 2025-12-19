@@ -1,0 +1,8 @@
+patient_id,first_name,last_name,date_of_birth,nhs_number,gender,phone_number,email,address,postcode,emergency_contact_name,emergency_contact_phone,registration_date,gp_surgery_id
+P001,John,Smith,1985/3/15,1234567890,M,7123456789,john.smith@email.com,"123 Oak Street, Birmingham",B1 1AA,Sarah Smith,7987654321,2020/1/15,S001
+P002,Emma,Johnson,1990/7/22,2345678901,F,7234567890,emma.johnson@email.com,"456 Pine Avenue, Birmingham",B2 2BB,Michael Johnson,7876543210,2019/5/10,S001
+P003,Robert,Williams,1975/11/8,3456789012,M,7345678901,robert.williams@email.com,"789 Maple Road, Solihull",B91 3CC,Lisa Williams,7765432109,2021/3/22,S002
+P004,Sarah,Brown,1988/9/14,4567890123,F,7456789012,sarah.brown@email.com,"321 Elm Close, Birmingham",B3 4DD,David Brown,7654321098,2020/8/5,S001
+P005,Michael,Davis,1982/12/3,5678901234,M,7567890123,michael.davis@email.com,"654 Birch Lane, Sutton Coldfield",B75 5EE,Jennifer Davis,7543210987,2019/11/18,S003
+P006,Linda,Miller,1978/4/27,6789012345,F,7678901234,linda.miller@email.com,"987 Cedar Grove, Birmingham",B4 6FF,Mark Miller,7432109876,2020/12/1,S002
+P007,123,213,123,123,Unknown,123,,,,null,null,null,C002
