@@ -1,0 +1,214 @@
+[2025-12-16 19:39:16] User: System - Action: User Management Service Initialized
+[2025-12-16 19:49:14] User: System - Action: User Management Service Initialized
+[2025-12-16 19:49:19] User: System - Action: User Management Service Initialized
+[2025-12-16 19:49:27] User: System - Action: User Management Service Initialized
+[2025-12-16 19:49:34] User: System - Action: User Management Service Initialized
+[2025-12-16 19:53:47] User: System - Action: User Management Service Initialized
+[2025-12-16 19:56:16] User: System - Action: User Management Service Initialized
+[2025-12-16 19:56:22] User: System - Action: User Management Service Initialized
+[2025-12-16 19:56:28] User: System - Action: User Management Service Initialized
+[2025-12-16 19:58:56] User: System - Action: User Management Service Initialized
+[2025-12-16 20:00:40] User: System - Action: User Management Service Initialized
+[2025-12-16 20:01:15] User: System - Action: User Management Service Initialized
+[2025-12-16 20:01:23] User: System - Action: User Management Service Initialized
+[2025-12-16 20:01:30] User: System - Action: User Management Service Initialized
+[2025-12-16 20:03:40] User: System - Action: User Management Service Initialized
+[2025-12-16 20:03:45] User: System - Action: User Management Service Initialized
+[2025-12-16 20:06:47] User: System - Action: User Management Service Initialized
+[2025-12-16 20:06:52] User: System - Action: User Management Service Initialized
+[2025-12-16 20:07:47] User: System - Action: User Management Service Initialized
+[2025-12-16 20:23:14] User: System - Action: User Management Service Initialized
+[2025-12-16 20:26:26] User: System - Action: User Management Service Initialized
+[2025-12-16 20:27:10] User: System - Action: User Management Service Initialized
+[2025-12-16 20:29:05] User: System - Action: User Management Service Initialized
+[2025-12-16 20:29:25] User: System - Action: User Management Service Initialized
+[2025-12-16 20:29:38] User: System - Action: User Management Service Initialized
+[2025-12-16 21:12:02] User: System - Action: User Management Service Initialized
+[2025-12-16 21:13:43] User: System - Action: User Management Service Initialized
+[2025-12-16 21:15:03] User: System - Action: User Management Service Initialized
+[2025-12-16 21:20:13] User: System - Action: User Management Service Initialized
+[2025-12-16 21:23:31] User: System - Action: User Management Service Initialized
+[2025-12-16 21:24:20] User: System - Action: User Management Service Initialized
+[2025-12-16 21:24:29] User: System - Action: User Management Service Initialized
+[2025-12-16 21:24:38] User: System - Action: User Management Service Initialized
+[2025-12-16 21:25:27] User: System - Action: User Management Service Initialized
+[2025-12-16 21:25:41] User: System - Action: User Management Service Initialized
+[2025-12-16 21:25:47] User: System - Action: User Management Service Initialized
+[2025-12-16 21:25:56] User: System - Action: User Management Service Initialized
+[2025-12-16 21:26:05] User: System - Action: User Management Service Initialized
+[2025-12-16 21:28:30] User: System - Action: User Management Service Initialized
+[2025-12-16 21:28:59] User: System - Action: User Management Service Initialized
+[2025-12-16 21:30:03] User: System - Action: User Management Service Initialized
+[2025-12-16 21:31:11] User: System - Action: User Management Service Initialized
+[2025-12-16 21:36:59] User: System - Action: User Management Service Initialized
+[2025-12-16 21:37:26] User: System - Action: User Management Service Initialized
+[2025-12-16 21:49:49] User: System - Action: User Management Service Initialized
+[2025-12-16 21:50:04] User: System - Action: User Management Service Initialized
+[2025-12-16 21:51:36] User: System - Action: User Management Service Initialized
+[2025-12-16 21:51:43] User: System - Action: User Management Service Initialized
+[2025-12-16 21:52:56] User: System - Action: User Management Service Initialized
+[2025-12-16 21:53:14] User: System - Action: User Management Service Initialized
+[2025-12-16 21:55:24] User: System - Action: User Management Service Initialized
+[2025-12-16 21:58:24] User: System - Action: User Management Service Initialized
+[2025-12-16 21:58:36] User: System - Action: User Management Service Initialized
+[2025-12-16 21:58:45] User: System - Action: User Management Service Initialized
+[2025-12-16 21:58:54] User: System - Action: User Management Service Initialized
+[2025-12-16 22:01:39] User: System - Action: User Management Service Initialized
+[2025-12-16 22:03:46] User: System - Action: User Management Service Initialized
+[2025-12-16 22:05:07] User: System - Action: User Management Service Initialized
+[2025-12-16 22:07:47] User: System - Action: User Management Service Initialized
+[2025-12-16 22:08:08] User: System - Action: User Management Service Initialized
+[2025-12-16 22:09:41] User: System - Action: User Management Service Initialized
+[2025-12-16 22:10:48] User: System - Action: User Management Service Initialized
+[2025-12-16 22:11:01] User: Admin - Action: Deleted staff ID: ST011
+[2025-12-16 22:11:01] User: Admin - Action: Added new staff: David Thompson
+[2025-12-16 22:11:07] User: Admin - Action: Deleted staff ID: ST011
+[2025-12-16 22:11:07] User: Admin - Action: Added new staff: David Thompson
+[2025-12-16 22:11:12] User: Admin - Action: Deleted staff ID: ST011
+[2025-12-16 22:11:12] User: Admin - Action: Added new staff: David Thompson
+[2025-12-16 22:11:17] User: Admin - Action: Deleted staff ID: ST011
+[2025-12-16 22:11:17] User: Admin - Action: Added new staff: David Thompson
+[2025-12-16 22:11:29] User: Admin - Action: Deleted staff ID: ST011
+[2025-12-16 22:11:29] User: Admin - Action: Added new staff: David Thompson
+[2025-12-16 22:11:35] User: Admin - Action: Deleted staff ID: ST011
+[2025-12-16 22:11:35] User: Admin - Action: Added new staff: David Thompson
+[2025-12-16 22:11:39] User: Admin - Action: Deleted staff ID: ST011
+[2025-12-16 22:11:39] User: Admin - Action: Added new staff: David Thompson
+[2025-12-16 22:11:43] User: Admin - Action: Deleted staff ID: ST011
+[2025-12-16 22:11:43] User: Admin - Action: Added new staff: David Thompson
+[2025-12-16 22:11:49] User: Admin - Action: Deleted staff ID: C010
+[2025-12-16 22:11:49] User: Admin - Action: Added new staff: Nurse Jane Phillips
+[2025-12-16 22:11:52] User: Admin - Action: Deleted staff ID: C010
+[2025-12-16 22:11:52] User: Admin - Action: Added new staff: Nurse Jane Phillips
+[2025-12-16 22:12:40] User: System - Action: User Management Service Initialized
+[2025-12-16 22:12:59] User: System - Action: User Management Service Initialized
+[2025-12-16 22:13:21] User: System - Action: User Management Service Initialized
+[2025-12-16 22:14:04] User: System - Action: User Management Service Initialized
+[2025-12-16 22:14:25] User: Admin - Action: Deleted staff ID: C012
+[2025-12-16 22:14:25] User: Admin - Action: Added new staff: Dr. Paul Harris
+[2025-12-16 22:14:38] User: Admin - Action: Deleted staff ID: C012
+[2025-12-16 22:14:38] User: Admin - Action: Added new staff: Dr. Paul Harris
+[2025-12-16 22:14:57] User: Admin - Action: Deleted staff ID: C001
+[2025-12-16 22:14:57] User: Admin - Action: Added new staff: Dr. David Thompson
+[2025-12-16 22:15:00] User: Admin - Action: Deleted staff ID: C001
+[2025-12-16 22:15:00] User: Admin - Action: Added new staff: Dr. David Thompson
+[2025-12-16 22:15:03] User: Admin - Action: Deleted staff ID: C001
+[2025-12-16 22:15:03] User: Admin - Action: Added new staff: Dr. David Thompson
+[2025-12-16 22:15:08] User: Admin - Action: Deleted staff ID: C001
+[2025-12-16 22:15:08] User: Admin - Action: Added new staff: Dr. David Thompson
+[2025-12-16 22:15:20] User: Admin - Action: Deleted staff ID: C001
+[2025-12-16 22:15:20] User: Admin - Action: Added new staff: Dr. David Thompson
+[2025-12-16 22:18:25] User: System - Action: User Management Service Initialized
+[2025-12-16 22:18:38] User: System - Action: User Management Service Initialized
+[2025-12-16 22:19:21] User: System - Action: User Management Service Initialized
+[2025-12-16 22:20:04] User: System - Action: User Management Service Initialized
+[2025-12-16 22:20:29] User: System - Action: User Management Service Initialized
+[2025-12-16 22:20:45] User: System - Action: User Management Service Initialized
+[2025-12-16 22:20:58] User: System - Action: User Management Service Initialized
+[2025-12-16 22:38:37] User: System - Action: User Management Service Initialized
+[2025-12-16 22:40:51] User: System - Action: User Management Service Initialized
+[2025-12-16 22:41:03] User: System - Action: User Management Service Initialized
+[2025-12-16 22:47:55] User: System - Action: User Management Service Initialized
+[2025-12-16 22:48:08] User: Admin - Action: Deleted staff ID: C007
+[2025-12-16 22:48:08] User: Admin - Action: Added new staff: Dr. Andrew White
+[2025-12-16 22:48:12] User: Admin - Action: Deleted staff ID: C007
+[2025-12-16 22:48:12] User: Admin - Action: Added new staff: Dr. Andrew White
+[2025-12-16 22:48:18] User: Admin - Action: Deleted staff ID: C008
+[2025-12-16 22:48:18] User: Admin - Action: Added new staff: Dr. Jennifer Lee
+[2025-12-16 22:50:22] User: System - Action: User Management Service Initialized
+[2025-12-16 22:50:32] User: Admin - Action: Deleted staff ID: C005
+[2025-12-16 22:50:32] User: Admin - Action: Added new staff: Dr. Richard Evans
+[2025-12-16 22:50:37] User: Admin - Action: Deleted staff ID: C006
+[2025-12-16 22:50:37] User: Admin - Action: Added new staff: Dr. Maria Rodriguez
+[2025-12-16 22:50:43] User: Admin - Action: Deleted staff ID: C006
+[2025-12-16 22:50:43] User: Admin - Action: Added new staff: Dr. Maria Rodriguez
+[2025-12-16 22:50:48] User: System - Action: User Management Service Initialized
+[2025-12-17 08:42:09] User: System - Action: User Management Service Initialized
+[2025-12-17 08:49:45] User: System - Action: User Management Service Initialized
+[2025-12-17 08:50:06] User: System - Action: User Management Service Initialized
+[2025-12-17 08:50:38] User: System - Action: User Management Service Initialized
+[2025-12-17 08:53:12] User: System - Action: User Management Service Initialized
+[2025-12-17 08:53:18] User: System - Action: User Management Service Initialized
+[2025-12-17 08:53:31] User: System - Action: User Management Service Initialized
+[2025-12-17 08:53:49] User: System - Action: User Management Service Initialized
+[2025-12-17 08:56:01] User: System - Action: User Management Service Initialized
+[2025-12-17 08:56:25] User: System - Action: User Management Service Initialized
+[2025-12-17 09:01:14] User: System - Action: User Management Service Initialized
+[2025-12-17 09:03:22] User: System - Action: User Management Service Initialized
+[2025-12-17 09:04:08] User: System - Action: User Management Service Initialized
+[2025-12-17 09:04:44] User: System - Action: User Management Service Initialized
+[2025-12-17 09:05:37] User: System - Action: User Management Service Initialized
+[2025-12-17 09:07:49] User: System - Action: User Management Service Initialized
+[2025-12-17 09:09:13] User: System - Action: User Management Service Initialized
+[2025-12-17 09:10:00] User: System - Action: User Management Service Initialized
+[2025-12-17 09:11:12] User: System - Action: User Management Service Initialized
+[2025-12-17 09:11:50] User: System - Action: User Management Service Initialized
+[2025-12-17 09:12:03] User: System - Action: User Management Service Initialized
+[2025-12-17 09:12:29] User: System - Action: User Management Service Initialized
+[2025-12-17 09:17:39] User: System - Action: User Management Service Initialized
+[2025-12-17 09:18:41] User: System - Action: User Management Service Initialized
+[2025-12-17 09:18:52] User: System - Action: User Management Service Initialized
+[2025-12-17 09:19:33] User: System - Action: User Management Service Initialized
+[2025-12-17 09:19:52] User: System - Action: User Management Service Initialized
+[2025-12-17 09:20:13] User: System - Action: User Management Service Initialized
+[2025-12-17 09:21:22] User: System - Action: User Management Service Initialized
+[2025-12-17 09:21:52] User: System - Action: User Management Service Initialized
+[2025-12-17 09:21:57] User: System - Action: User Management Service Initialized
+[2025-12-17 09:22:28] User: System - Action: User Management Service Initialized
+[2025-12-17 09:23:34] User: System - Action: User Management Service Initialized
+[2025-12-17 09:23:58] User: System - Action: User Management Service Initialized
+[2025-12-17 09:24:12] User: System - Action: User Management Service Initialized
+[2025-12-17 09:24:31] User: System - Action: User Management Service Initialized
+[2025-12-17 09:24:46] User: System - Action: User Management Service Initialized
+[2025-12-17 09:24:53] User: System - Action: User Management Service Initialized
+[2025-12-17 09:25:11] User: System - Action: User Management Service Initialized
+[2025-12-17 09:25:18] User: System - Action: User Management Service Initialized
+[2025-12-17 09:25:42] User: System - Action: User Management Service Initialized
+[2025-12-17 09:26:36] User: System - Action: User Management Service Initialized
+[2025-12-17 09:27:11] User: System - Action: User Management Service Initialized
+[2025-12-17 09:27:23] User: System - Action: User Management Service Initialized
+[2025-12-17 09:27:42] User: System - Action: User Management Service Initialized
+[2025-12-17 09:27:48] User: System - Action: User Management Service Initialized
+[2025-12-17 09:27:54] User: System - Action: User Management Service Initialized
+[2025-12-17 09:28:09] User: System - Action: User Management Service Initialized
+[2025-12-17 09:28:53] User: System - Action: User Management Service Initialized
+[2025-12-17 09:29:07] User: System - Action: User Management Service Initialized
+[2025-12-17 09:29:15] User: System - Action: User Management Service Initialized
+[2025-12-17 09:29:23] User: System - Action: User Management Service Initialized
+[2025-12-17 09:29:37] User: System - Action: User Management Service Initialized
+[2025-12-17 09:29:49] User: System - Action: User Management Service Initialized
+[2025-12-17 09:30:20] User: System - Action: User Management Service Initialized
+[2025-12-17 09:30:58] User: System - Action: User Management Service Initialized
+[2025-12-17 09:31:22] User: System - Action: User Management Service Initialized
+[2025-12-17 09:31:53] User: System - Action: User Management Service Initialized
+[2025-12-17 09:32:02] User: System - Action: User Management Service Initialized
+[2025-12-17 09:32:08] User: System - Action: User Management Service Initialized
+[2025-12-17 09:33:08] User: System - Action: User Management Service Initialized
+[2025-12-17 09:34:11] User: System - Action: User Management Service Initialized
+[2025-12-17 09:34:21] User: System - Action: User Management Service Initialized
+[2025-12-17 09:39:15] User: System - Action: User Management Service Initialized
+[2025-12-17 09:39:30] User: System - Action: User Management Service Initialized
+[2025-12-17 09:39:42] User: System - Action: User Management Service Initialized
+[2025-12-17 09:39:48] User: System - Action: User Management Service Initialized
+[2025-12-17 09:40:20] User: System - Action: User Management Service Initialized
+[2025-12-17 09:52:24] User: System - Action: User Management Service Initialized
+[2025-12-17 09:55:10] User: System - Action: User Management Service Initialized
+[2025-12-17 09:55:20] User: P001 - Action: Requested refill for 11
+[2025-12-17 09:55:25] User: System - Action: User Management Service Initialized
+[2025-12-17 09:56:46] User: System - Action: User Management Service Initialized
+[2025-12-17 09:57:56] User: System - Action: User Management Service Initialized
+[2025-12-17 09:58:11] User: System - Action: User Management Service Initialized
+[2025-12-17 10:00:09] User: System - Action: User Management Service Initialized
+[2025-12-17 10:00:25] User: System - Action: User Management Service Initialized
+[2025-12-17 10:02:15] User: System - Action: User Management Service Initialized
+[2025-12-17 10:02:22] User: System - Action: User Management Service Initialized
+[2025-12-17 10:19:58] User: System - Action: User Management Service Initialized
+[2025-12-17 11:29:11] User: System - Action: User Management Service Initialized
+[2025-12-17 11:48:46] User: System - Action: User Management Service Initialized
+[2025-12-17 11:48:58] User: System - Action: User Management Service Initialized
+[User: Admin] Added/Updated Staff: 123
+[User: Admin] Added/Updated Staff: 321
+[User: Admin] Deleted staff: 321
+[User: Admin] Added/Updated Staff: 321
+[User: C002] Printed Prescription to File: RX004
+[User: C002] Printed Prescription to File: RX004
